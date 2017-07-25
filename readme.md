@@ -1,4 +1,4 @@
-# Sistema de Gestão de Documentos Técnicos e Manutenção 
+# Portal de Sistemas Internos da Prefeitura SMJ. 
 
 
 ## Dependências:
